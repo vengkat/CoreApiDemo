@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/venkat/.dotnet/store/|arch|/|tfm|",
+      "/home/venkat/.nuget/packages"
+    ]
+  }
+}
